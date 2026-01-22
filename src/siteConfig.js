@@ -13,17 +13,11 @@ export const siteConfig = {
   },
 
   aboutLong: `
-    Ik ben een XR Developer die energie krijgt van het bouwen van interactieve, 
-    fysieke en intuïtieve ervaringen in VR en AR. Voor mij draait goede XR niet 
-    alleen om technologie, maar vooral om hoe gebruikers een digitale wereld 
-    *voelen*. Ik werk graag iteratief met prototypes: snel testen, verbeteren en 
-    opnieuw testen — net zo lang tot interacties natuurlijk en prettig aanvoelen.
-
-    Ik ga deze tekst aanpassen en een stuk persoonlijker maken door ook iets leuks
-    over mijzelf te vertellen!
-  `,
-
-  softSkills: ["Samenwerken met artists", "Feedback geven & ontvangen", "Probleemoplossend denken"],
+  Ik ben een een XR developer vooral gefocused op VR en game development Ik werk met Unity en Unreal
+  Engine, Programeer in C# en ontwikkel voor meta quest. Ik ben best zelfstandig en werk mijn ideeën uit.
+  met dit portfolio ben ik opzoek naar een stage plek waar ik mij verder kan ontwikkelen binnen XR en VR. `,
+ 
+  softSkills: ["zelfstandig", "Feedback geven & ontvangen", "Probleemoplossend denken"],
 
   hardSkills: ["Unity & XR Interaction Toolkit", "C# Scripting", "Git & Version Control"],
 };
